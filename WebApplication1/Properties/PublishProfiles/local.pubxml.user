@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>c:\sugnl\website</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Config/Include/BoC/Glass.Mapper.Sc.CodeFirst.config">
+      <publishTime>12/09/2014 15:12:38</publishTime>
+    </File>
+    <File Include="App_Config/Include/BoC/Glass.Mapper.Sc.CodeFirst.config.example">
+      <publishTime>12/09/2014 15:12:38</publishTime>
+    </File>
+    <File Include="App_Config/Include/BoC/Glass.Mapper.Sc.Mvc.Config">
+      <publishTime>09/12/2014 15:12:38</publishTime>
+    </File>
+    <File Include="App_Config/Include/Glass.Mapper.Sc.Mvc.Config">
+      <publishTime>09/12/2014 15:12:27</publishTime>
+    </File>
+    <File Include="bin/BoC.dll">
+      <publishTime>09/12/2014 15:12:12</publishTime>
+    </File>
+    <File Include="bin/BoC.InversionOfControl.Unity.dll">
+      <publishTime>09/12/2014 15:13:25</publishTime>
+    </File>
+    <File Include="bin/BoC.Logging.Sitecore.dll">
+      <publishTime>09/12/2014 15:12:12</publishTime>
+    </File>
+    <File Include="bin/BoC.Persistence.SitecoreGlass.dll">
+      <publishTime>09/12/2014 15:12:15</publishTime>
+    </File>
+    <File Include="bin/BoC.Web.Mvc.dll">
+      <publishTime>09/12/2014 15:14:07</publishTime>
+    </File>
+    <File Include="bin/Castle.Core.dll">
+      <publishTime>09/12/2014 15:12:14</publishTime>
+    </File>
+    <File Include="bin/Castle.Windsor.dll">
+      <publishTime>09/12/2014 15:12:15</publishTime>
+    </File>
+    <File Include="bin/ComponentArt.Web.UI.dll">
+      <publishTime>03/10/2014 01:15:16</publishTime>
+    </File>
+    <File Include="bin/Glass.Mapper.dll">
+      <publishTime>09/12/2014 15:12:12</publishTime>
+    </File>
+    <File Include="bin/Glass.Mapper.pdb">
+      <publishTime>09/12/2014 15:12:12</publishTime>
+    </File>
+    <File Include="bin/Glass.Mapper.Sc.CastleWindsor.dll">
+      <publishTime>09/12/2014 15:12:12</publishTime>
+    </File>
+    <File Include="bin/Glass.Mapper.Sc.CastleWindsor.pdb">
+      <publishTime>09/12/2014 15:12:12</publishTime>
+    </File>
+    <File Include="bin/Glass.Mapper.Sc.ContentSearch.dll">
+      <publishTime>09/12/2014 15:12:13</publishTime>
+    </File>
+    <File Include="bin/Glass.Mapper.Sc.ContentSearch.LuceneProvider.dll">
+      <publishTime>09/12/2014 15:12:13</publishTime>
+    </File>
+    <File Include="bin/Glass.Mapper.Sc.dll">
+      <publishTime>09/12/2014 15:12:12</publishTime>
+    </File>
+    <File Include="bin/Glass.Mapper.Sc.Mvc.dll">
+      <publishTime>09/12/2014 15:12:12</publishTime>
+    </File>
+    <File Include="bin/Glass.Mapper.Sc.pdb">
+      <publishTime>09/12/2014 15:12:12</publishTime>
+    </File>
+    <File Include="bin/Hammock.ClientProfile.dll">
+      <publishTime>09/12/2014 15:25:43</publishTime>
+    </File>
+    <File Include="bin/Hammock.ClientProfile.pdb">
+      <publishTime>09/12/2014 15:25:43</publishTime>
+    </File>
+    <File Include="bin/HtmlAgilityPack.dll">
+      <publishTime>03/10/2014 01:24:44</publishTime>
+    </File>
+    <File Include="bin/ICSharpCode.SharpZipLib.dll">
+      <publishTime>09/12/2014 15:12:13</publishTime>
+    </File>
+    <File Include="bin/ITHit.WebDAV.Server.dll">
+      <publishTime>03/10/2014 01:24:44</publishTime>
+    </File>
+    <File Include="bin/Lucene.Net.dll">
+      <publishTime>09/12/2014 15:12:13</publishTime>
+    </File>
+    <File Include="bin/Lucene.Net.pdb">
+      <publishTime>09/12/2014 15:12:13</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.Configuration.dll">
+      <publishTime>09/12/2014 15:13:25</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.dll">
+      <publishTime>09/12/2014 15:13:25</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.RegistrationByConvention.dll">
+      <publishTime>09/12/2014 15:13:25</publishTime>
+    </File>
+    <File Include="bin/Mvp.Xml.dll">
+      <publishTime>03/10/2014 01:25:00</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>09/12/2014 15:14:06</publishTime>
+    </File>
+    <File Include="bin/RadEditor.Net2.dll">
+      <publishTime>03/10/2014 01:25:02</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Analytics.Aggregation.dll">
+      <publishTime>03/10/2014 01:25:04</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Analytics.Core.dll">
+      <publishTime>03/10/2014 01:25:06</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Analytics.DataAccess.dll">
+      <publishTime>03/10/2014 01:25:06</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Analytics.dll">
+      <publishTime>03/10/2014 01:25:08</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Analytics.Model.dll">
+      <publishTime>03/10/2014 01:25:08</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Analytics.Processing.dll">
+      <publishTime>03/10/2014 01:25:10</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Client.dll">
+      <publishTime>03/10/2014 01:25:18</publishTime>
+    </File>
+    <File Include="bin/Sitecore.ContentSearch.dll">
+      <publishTime>03/10/2014 01:25:28</publishTime>
+    </File>
+    <File Include="bin/Sitecore.ContentSearch.Linq.dll">
+      <publishTime>03/10/2014 01:25:28</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Kernel.dll">
+      <publishTime>03/10/2014 01:25:32</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Logging.dll">
+      <publishTime>03/10/2014 01:25:34</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Mvc.dll">
+      <publishTime>03/10/2014 01:25:38</publishTime>
+    </File>
+    <File Include="bin/Sitecore.NVelocity.dll">
+      <publishTime>03/10/2014 01:25:40</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Zip.dll">
+      <publishTime>03/10/2014 01:26:02</publishTime>
+    </File>
+    <File Include="bin/Stimulsoft.Base.dll">
+      <publishTime>03/10/2014 01:26:02</publishTime>
+    </File>
+    <File Include="bin/Stimulsoft.Report.dll">
+      <publishTime>03/10/2014 01:26:04</publishTime>
+    </File>
+    <File Include="bin/Stimulsoft.Report.Web.dll">
+      <publishTime>03/10/2014 01:26:06</publishTime>
+    </File>
+    <File Include="bin/Stimulsoft.Report.WebDesign.dll">
+      <publishTime>03/10/2014 01:26:06</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>09/12/2014 15:14:06</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>09/12/2014 15:11:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>09/12/2014 15:14:06</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>09/12/2014 15:14:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>09/12/2014 15:11:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>09/12/2014 15:11:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>09/12/2014 15:11:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>09/12/2014 15:11:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>09/12/2014 15:11:32</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.dll">
+      <publishTime>03/10/2014 01:26:20</publishTime>
+    </File>
+    <File Include="bin/TweetSharp.dll">
+      <publishTime>09/12/2014 15:25:43</publishTime>
+    </File>
+    <File Include="bin/TweetSharp.pdb">
+      <publishTime>09/12/2014 15:25:43</publishTime>
+    </File>
+    <File Include="bin/WebActivatorEx.dll">
+      <publishTime>09/12/2014 15:12:11</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.dll">
+      <publishTime>12/09/2014 15:43:49</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.pdb">
+      <publishTime>12/09/2014 15:43:49</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>09/12/2014 15:20:47</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>09/12/2014 15:20:47</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>09/12/2014 15:20:44</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>09/12/2014 15:20:47</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>09/12/2014 15:20:47</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>09/12/2014 15:20:47</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>09/12/2014 15:20:47</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/12/2014 15:11:47</publishTime>
+    </File>
+    <File Include="License.txt">
+      <publishTime>09/12/2014 15:12:23</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/12/2014 15:25:49</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>09/12/2014 15:20:47</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>09/12/2014 15:20:47</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>09/12/2014 15:20:45</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>09/12/2014 15:20:45</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>09/12/2014 15:20:45</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>09/12/2014 15:20:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>09/12/2014 15:20:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>09/12/2014 15:20:47</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>09/12/2014 15:20:47</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>09/12/2014 15:20:48</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>09/12/2014 15:33:32</publishTime>
+    </File>
+    <File Include="Views/Home/Send.cshtml">
+      <publishTime>12/09/2014 15:41:58</publishTime>
+    </File>
+    <File Include="Views/Home/SendTweet.cshtml">
+      <publishTime>12/09/2014 15:41:58</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>09/12/2014 15:21:12</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>09/12/2014 15:11:31</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/12/2014 15:26:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

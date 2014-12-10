@@ -1,0 +1,7 @@
+﻿@inherits Glass.Mapper.Sc.Web.Mvc.GlassView<WebApplication1.Controllers.SendViewModel>
+<a href="@Model.TwitterUrl"><h1>Send with twitter</h1></a>
+@foreach (var msg in Model.Messages)
+{
+    <div class="alert alert-danger">sent: @msg</div>
+}
+

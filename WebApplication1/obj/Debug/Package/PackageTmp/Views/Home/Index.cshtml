@@ -1,0 +1,8 @@
+﻿@inherits Glass.Mapper.Sc.Web.Mvc.GlassView<WebApplication1.Models.Homepage>
+
+<h2>@Editable(m=>Model.Title)</h2>
+@Editable(m=>Model.Text)
+
+<a href="@ViewBag.TwitterUrl"><h1>Authenticate twitter</h1></a>
+<div class="alert alert-danger">@ViewBag.Message</div>
+
